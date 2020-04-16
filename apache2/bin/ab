@@ -1,0 +1,3 @@
+#!/bin/sh
+. /Applications/mampstack-7.3.16-2/apache2/bin/envvars
+exec /Applications/mampstack-7.3.16-2/apache2/bin/ab.bin "$@"

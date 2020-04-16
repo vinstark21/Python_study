@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /Applications/mampstack-7.3.16-2/scripts/setenv.sh
+
+exec /Applications/mampstack-7.3.16-2/git/libexec/git-core/.git-remote-https.bin  "$@"

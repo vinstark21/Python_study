@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /Applications/mampstack-7.3.16-2/scripts/setenv.sh
+
+exec /Applications/mampstack-7.3.16-2/varnish/bin/.varnishstat.bin -n /Applications/mampstack-7.3.16-2/varnish/var/varnish "$@"
