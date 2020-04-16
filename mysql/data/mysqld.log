@@ -5,3 +5,21 @@
 2020-04-14T06:37:16.599259Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
 2020-04-14T06:37:16.619501Z 0 [System] [MY-010931] [Server] /Applications/mampstack-7.3.16-2/mysql/bin/mysqld.bin: ready for connections. Version: '8.0.18'  socket: '/Applications/mampstack-7.3.16-2/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server - GPL.
 2020-04-14T06:37:16.733651Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
+2020-04-16T05:17:06.6NZ mysqld_safe Logging to '/Applications/mampstack-7.3.16-2/mysql/data/mysqld.log'.
+2020-04-16T05:17:06.6NZ mysqld_safe Starting mysqld.bin daemon with databases from /Applications/mampstack-7.3.16-2/mysql/data
+2020-04-16T05:17:06.787822Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2020-04-16T05:17:06.788239Z 0 [System] [MY-010116] [Server] /Applications/mampstack-7.3.16-2/mysql/bin/mysqld.bin (mysqld 8.0.18) starting as process 1688
+2020-04-16T05:17:07.139814Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2020-04-16T05:17:07.149996Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2020-04-16T05:17:07.219839Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-16T05:17:07.240954Z 0 [System] [MY-010931] [Server] /Applications/mampstack-7.3.16-2/mysql/bin/mysqld.bin: ready for connections. Version: '8.0.18'  socket: '/Applications/mampstack-7.3.16-2/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-04-16T05:17:07.390176Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
+2020-04-16T05:41:35.653324Z 0 [System] [MY-010910] [Server] /Applications/mampstack-7.3.16-2/mysql/bin/mysqld.bin: Shutdown complete (mysqld 8.0.18)  MySQL Community Server - GPL.
+2020-04-16T05:41:35.6NZ mysqld_safe mysqld from pid file /Applications/mampstack-7.3.16-2/mysql/data/mysqld.pid ended
+2020-04-16T05:41:42.6NZ mysqld_safe Logging to '/Applications/mampstack-7.3.16-2/mysql/data/mysqld.log'.
+2020-04-16T05:41:43.6NZ mysqld_safe Starting mysqld.bin daemon with databases from /Applications/mampstack-7.3.16-2/mysql/data
+2020-04-16T05:41:43.414460Z 0 [Warning] [MY-011068] [Server] The syntax 'expire-logs-days' is deprecated and will be removed in a future release. Please use binlog_expire_logs_seconds instead.
+2020-04-16T05:41:43.414659Z 0 [System] [MY-010116] [Server] /Applications/mampstack-7.3.16-2/mysql/bin/mysqld.bin (mysqld 8.0.18) starting as process 4811
+2020-04-16T05:41:43.728075Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-04-16T05:41:43.746604Z 0 [System] [MY-010931] [Server] /Applications/mampstack-7.3.16-2/mysql/bin/mysqld.bin: ready for connections. Version: '8.0.18'  socket: '/Applications/mampstack-7.3.16-2/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2020-04-16T05:41:43.901083Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/tmp/mysqlx.sock' bind-address: '::' port: 33060
