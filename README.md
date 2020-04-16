@@ -8,3 +8,9 @@
 #### Python 데이터타입 - 숫자 -
 #### NuberType 종류 : https://docs.python.org/3.7/library/stdtypes.html
 #### Int 타입의 기본 연산자
+
+## 14장
+#### Python 데이터타입 -문자열-
+#### '로 시작하면 '로 끝나야함.
+#### \를 붙이면 문자열로 인식하게 됨. (escape)
+#### escape 목록 : http://python-ds.com/python-3-escape-sequences
