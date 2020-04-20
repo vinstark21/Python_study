@@ -18,8 +18,13 @@
 #### positional formating = 위치 기반 포맷팅
 #### named placeholder = 특정위치 기반 포맷팅
 
-## 21~21장 문법 Boolean 
+## 21~22장 문법 Boolean 
 #### 참, 거짓을 판별한다.
 #### os.path.exists 으로 파일의 유무도 체킹할 수 있다.
 #### Comparison operator : ==, >, < 
 #### Membership operator : in ( 'world' in 'hello world' )
+
+## 23장 Conditional statement
+#### input() 으로 값 입력을 받을 수 있다.
+#### 파이썬에서 들여쓰기를 사용하면 들여쓰기를 항상 통일시켜야 한다.
+#### if문을 계속 중첩시키면 가독성이 매우 저하될 듯 싶다.
