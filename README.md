@@ -24,7 +24,7 @@
 #### Comparison operator : ==, >, < 
 #### Membership operator : in ( 'world' in 'hello world' )
 
-## 23 ~ 24장 조건문 Conditional statement, Loical operator
+## 23 ~ 24장 조건문 Conditional statement, Logical operator
 
 ### Conditional statement
 
@@ -32,7 +32,7 @@
 #### 파이썬에서 들여쓰기를 사용하면 들여쓰기를 항상 통일시켜야 한다.
 #### if문을 계속 중첩시키면 가독성이 매우 저하될 듯 싶다.
 
-### Loical operator
+### Logical operator
 
 #### and는 swift 에서 &&
 #### 둘다 true 일때만 true를 리턴
