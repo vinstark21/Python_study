@@ -42,3 +42,12 @@
 
 #### not은 swift 에서 !=
 #### - elif 는 swift 에서 else if
+
+## 25장 ~ 26장
+
+### List
+#### swift에서 array
+#### 인덱스는 0부터 시작
+#### len(array) 로 사용하여 길이 조회
+#### del array[0] 으로 삭제
+#### array.append('a') 로 삽입
