@@ -17,3 +17,9 @@
 #### Formating 종류 : https://pyformat.info/
 #### positional formating = 위치 기반 포맷팅
 #### named placeholder = 특정위치 기반 포맷팅
+
+## 21~21장 문법 Boolean 
+#### 참, 거짓을 판별한다.
+#### os.path.exists 으로 파일의 유무도 체킹할 수 있다.
+#### Comparison operator : ==, >, < 
+#### Membership operator : in ( 'world' in 'hello world' )

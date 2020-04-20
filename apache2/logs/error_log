@@ -1,3 +1,4 @@
 [Thu Apr 16 14:54:43.102585 2020] [cgid:error] [pid 6372] (13)Permission denied: AH01241: exec of '/Applications/mampstack-7.3.16-2/apache2/htdocs/helloworld.py' failed
 [Thu Apr 16 14:54:43.103739 2020] [cgid:error] [pid 6326] [client ::1:50606] End of script output before headers: helloworld.py
 [Thu Apr 16 14:55:58.324811 2020] [cgid:error] [pid 6324] [client ::1:50611] malformed header from script 'helloworld.py': Bad header: 4.0
+[Thu Apr 16 20:16:07.476104 2020] [mpm_prefork:notice] [pid 6319] AH00169: caught SIGTERM, shutting down
