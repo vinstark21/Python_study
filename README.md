@@ -18,10 +18,10 @@
 #### positional formating = 위치 기반 포맷팅
 #### named placeholder = 특정위치 기반 포맷팅
 
-## 21 ~ 22장 문법 Boolean 
+## 21 ~ 22장 문법 Boolean
 #### 참, 거짓을 판별한다.
 #### os.path.exists 으로 파일의 유무도 체킹할 수 있다.
-#### Comparison operator : ==, >, < 
+#### Comparison operator : ==, >, <
 #### Membership operator : in ( 'world' in 'hello world' )
 
 ## 23 ~ 24장 조건문 Conditional statement, Logical operator
@@ -35,11 +35,10 @@
 ### Logical operator
 
 #### and는 swift 에서 &&
-#### 둘다 true 일때만 true를 리턴
-
+#### - 둘다 true 일때만 true를 리턴
+####
 #### or는 swift 에서 ||
-#### 하나만 true 일때도 true를 리턴
+#### - 하나만 true 일때도 true를 리턴
 
 #### not은 swift 에서 !=
-#### elif 는 swift 에서 else if
-
+#### - elif 는 swift 에서 else if
