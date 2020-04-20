@@ -51,3 +51,4 @@
 #### len(array) 로 사용하여 길이 조회
 #### del array[0] 으로 삭제
 #### array.append('a') 로 삽입
+#### array.remove('a') 로 해당 값 삭제
