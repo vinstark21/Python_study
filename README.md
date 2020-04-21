@@ -53,8 +53,7 @@ in ( 'world' in 'hello world' )
 
 #### not은 swift 에서 !=
     - true라면 false를 리턴
-
-####elif 는 swift 에서 else if
+#### elif 는 swift 에서 else if
 
 * * *
 
