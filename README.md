@@ -52,7 +52,9 @@ in ( 'world' in 'hello world' )
     - 하나만 true 일때도 true를 리턴
 
 #### not은 swift 에서 !=
-    - elif 는 swift 에서 else if
+    - true라면 false를 리턴
+
+####elif 는 swift 에서 else if
 
 * * *
 
